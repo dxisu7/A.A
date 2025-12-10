@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Upscale",
+  "description": "Professional AI image upscaler using Gemini Pro Vision. Scale images up to 16K resolution with credit-based tiered pricing.",
+  "requestFramePermissions": []
+}
